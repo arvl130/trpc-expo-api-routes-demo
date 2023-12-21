@@ -1,4 +1,4 @@
-# 🧩 Demo app for integrating tRPC with Expo API routes
+# 🧩 tRPC with Expo API Routes Demo
 
 With the release of [Expo SDK 50](https://expo.dev/changelog/2023/12-12-sdk-50-beta), Expo Router now enables you to write server code on your Expo projects through the new [API Routes](https://docs.expo.dev/router/reference/api-routes).
 
